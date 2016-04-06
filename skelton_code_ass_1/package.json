@@ -1,0 +1,23 @@
+{
+  "name": "packagepackage",
+  "version": "0.1.0",
+  "description": "a package for my amazeballs greet program",
+  "main": "./lib/greet.js",
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "gulp": "~3.9.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "~2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KMSkelton/simple_modular_and_test_patterns.git"
+  },
+  "keywords": [
+    "save",
+    "dev"
+  ],
+  "author": "kristopher@kmskelton.com",
+  "license": "MIT"
+}
