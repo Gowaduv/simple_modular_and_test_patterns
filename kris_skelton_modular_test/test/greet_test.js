@@ -9,5 +9,5 @@ describe("greet function", () => {
   });
   it("should respond with 'Hello '", () => {
     expect(greet.response("Kris")).to.contain("Hello");
-  })
+  });
 });
